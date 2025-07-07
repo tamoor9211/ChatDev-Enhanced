@@ -1,0 +1,1 @@
+Build a desktop calculator application with a simple graphical user interface (GUI). The calculator should perform basic arithmetic operations: addition, subtraction, multiplication, and division. The application should also handle division by zero errors, with the specific error handling method to be determined.
