@@ -103,10 +103,10 @@ class LLMInterface:
 
     # Multiple API keys for automatic failover
     GOOGLE_API_KEYS = [
-        "AIzaSyDEJsIlQGLnRZU0EVUwyj-fP1HWvL076wg",
+        "api_key_1",
         # Add more API keys here for automatic failover
-        "AIzaSyDruKAyU3-qbLsNVY0KWA27lumBcWUJLf8",
-        "AIzaSyDJJkKrYzD-bQ0zEJAyedoZaHQjE3P_6YE",
+        "api_key_2",
+        "api_key_3",
     ]
 
     def __init__(self):
